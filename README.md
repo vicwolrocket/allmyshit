@@ -4,5 +4,3 @@ I just needed to store stuff D:
 Ngrok:
 https://github.com/inconshreveable/ngrok
 
-Adoptium:
-https://adoptium.net/
