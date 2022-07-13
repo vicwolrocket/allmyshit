@@ -1,5 +1,5 @@
-# ngrok-exe
-I just needed to store the ngrok file for a project D: 
+# allmyshit
+I just needed to store stuff D:
 
-Original:
+Ngrok:
 https://github.com/inconshreveable/ngrok
