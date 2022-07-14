@@ -9,3 +9,6 @@ https://viaversion.com
 
 Grim:
 https://grim.ac
+
+JPanel:
+https://dev.bukkit.org/projects/jpanel
